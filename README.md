@@ -51,7 +51,7 @@ O banco de dados é composto por 8 tabelas principais:
 [...continua com todas as tabelas...]
 
 ### 7. Scripts de Criação
-Os scripts de criação do banco de dados e suas tabelas estão disponíveis no arquivo `create_database.sql`.
+Os scripts de criação do banco de dados e suas tabelas estão disponíveis no arquivo `.sqlcreate_database`.
 
 ### 8. Scripts de Inserção
 Os dados são importados de arquivos CSV do Kaggle através de scripts de importação específicos.
