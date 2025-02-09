@@ -50,11 +50,23 @@ O banco de dados é composto por 8 tabelas principais:
 | genres | Gêneros | TEXT | - |
 [...continua com todas as tabelas...]
 
+https://docs.google.com/presentation/d/1qgoydPNZ5wSUq0sAQ_3-_OWpN3oni0VaQXHvxrFzSS8/edit?usp=sharing
+
 ### 7. Scripts de Criação
-Os scripts de criação do banco de dados e suas tabelas estão disponíveis no arquivo `.sqlcreate_database`.
+Os scripts de criação do banco de dados e suas tabelas estão disponíveis no arquivo `create_database.sql`.
 
 ### 8. Scripts de Inserção
-Os dados são importados de arquivos CSV do Kaggle através de scripts de importação específicos.
+Os dados são importados de arquivos CSV do Kaggle.
+
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+https://www.kaggle.com/datasets/shreyasur29/imdbratings
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies
+https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies
+https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies
+https://www.kaggle.com/datasets/victorsoeiro/paramount-tv-shows-and-movies
+https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
+
 
 ### 9. Relatórios e Análises
 O sistema oferece diversos relatórios analíticos, incluindo:
@@ -64,9 +76,10 @@ O sistema oferece diversos relatórios analíticos, incluindo:
 - Análise de gêneros populares
 - Comparação de custo-benefício
 
+Scripts disponíveis no arquivo scripts.sql
+
 ### 10. Ferramentas e Tecnologias
 - MySQL 8.0: Sistema de gerenciamento de banco de dados
 - MySQL Workbench: Ferramenta de modelagem e administração
-- Python: Scripts de ETL para importação de dados
 - Git: Controle de versão
 - DrawSQL: Modelagem do diagrama ER
